@@ -206,13 +206,45 @@ black --check .
 mypy src
 ```
 
-## 📸 Demo
-
-### Install
+## 📦 Installation
 
 ```bash
 pip install ciphergate
 ```
+
+---
+
+## 📸 DEMO
+
+### Installation
+
+![Installation](assets/install.png)
+
+---
+
+### Detecting a Safe Request
+
+CipherGate analyzes prompts and provides a risk assessment before they reach your LLM.
+
+![Safe Scan](assets/safe-scan.png)
+
+---
+
+### Detecting Malicious Prompts
+
+Prompt injection, context manipulation, and secret extraction attempts are identified with detailed findings and risk scoring.
+
+![Attack Scan](assets/attack-scan.png)
+
+---
+
+### Detailed Findings
+
+Every detection includes structured findings, confidence scores, recommendations, and an Allow / Review / Block decision.
+
+![Findings](assets/findings.png)
+
+---
 
 ## Documentation
 
