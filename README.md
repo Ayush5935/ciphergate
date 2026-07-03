@@ -206,6 +206,14 @@ black --check .
 mypy src
 ```
 
+## 📸 Demo
+
+### Install
+
+```bash
+pip install ciphergate
+```
+
 ## Documentation
 
 Full documentation is available at [https://ciphergate.readthedocs.io](https://ciphergate.readthedocs.io).
