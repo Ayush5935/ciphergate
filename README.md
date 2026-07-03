@@ -187,7 +187,7 @@ Aggregated scan result.
 Clone the repository and install development dependencies:
 
 ```bash
-git clone https://github.com/ciphergate/ciphergate.git
+git clone https://github.com/Ayush5935/ciphergate.git
 cd ciphergate
 pip install -e ".[dev]"
 ```
