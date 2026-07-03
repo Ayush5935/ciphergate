@@ -2,7 +2,7 @@
 [![codecov](https://codecov.io/gh/ciphergate/ciphergate/branch/main/graph/badge.svg)]
 [![PyPI](https://img.shields.io/pypi/v/ciphergate)](https://pypi.org/project/ciphergate/0.1.0/)
 [![Python](https://img.shields.io/pypi/pyversions/ciphergate)](https://pypi.org/project/ciphergate/)
-[![License](https://img.shields.io/github/license/ciphergate/ciphergate)](https://github.com/ciphergate/ciphergate/blob/main/LICENSE)
+[![License](https://img.shields.io/github/license/ciphergate/ciphergate)](https://github.com/Ayush5935/ciphergate/blob/main/LICENSE)
 
 > Enterprise-grade AI Runtime & Governance SDK
 
